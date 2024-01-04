@@ -1,6 +1,14 @@
 .right{
     text-align: right;
 }
+h2{
+    /* border-top: 5px dashed ; */
+    /* border-style: double; */
+    text-decoration: overline;
+}
+#h{
+    color: rgb(95, 68, 0);
+}
 #hed{
     text-align: center;
 }
@@ -11,4 +19,16 @@ h2{
     font-size: xxx-large;
     font-family:cursive;
     color:rgb(132, 61, 10)
+}
+.spaan{
+    color: rgba(160, 0, 0, 0.592);
+    font-weight: 600;
+}
+h3{
+    font-size: x-large;
+    color:rgb(184, 83, 11);
+    text-decoration:underline;
+}
+.one{
+    
 }
