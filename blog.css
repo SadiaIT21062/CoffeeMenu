@@ -1,6 +1,14 @@
 .right{
     text-align: right;
 }
-h2,#h{
+#hed{
     text-align: center;
+}
+*{
+    margin: 15px;
+}
+h2{
+    font-size: xxx-large;
+    font-family:cursive;
+    color:rgb(132, 61, 10)
 }
