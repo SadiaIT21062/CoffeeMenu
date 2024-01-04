@@ -6,11 +6,13 @@ h2{
     /* border-style: double; */
     text-decoration: overline;
 }
-#h{
+/* #h{
     color: rgb(95, 68, 0);
-}
+} */
 #hed{
     text-align: center;
+    background-image: url('/photo/download\ \(1\).jpg');
+    /* color: black; */
 }
 *{
     margin: 15px;
